@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    list-style: none;
+}
+ul li img{
+    width: 100px;
+    cursor: pointer;
+}
+ul, #main-image{
+    float: left;
+}
+
+#img-main{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 460px;
+}
